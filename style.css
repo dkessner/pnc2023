@@ -1,0 +1,43 @@
+
+body 
+{ 
+    font-family: 'Lucida Console', 'Monaco', 'Courier New'; 
+    color: white;
+}
+
+
+.cols {
+    display: flex;
+}
+
+.fifty {
+    flex: 50%;
+}
+
+.purple 
+{ 
+    background-color: #46544cff;
+    color: white; 
+    padding: 5px;
+    margin: 30px;
+}
+
+.remark-slide-content 
+{
+    /*
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    */
+    /*background-image: url("pix/binary_background.png");*/
+    background-color: #46544cff;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
